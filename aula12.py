@@ -1,4 +1,4 @@
-peso = 65
+peso = 64
 altura = float(1.74)
 
 imc = peso / (altura*altura)
